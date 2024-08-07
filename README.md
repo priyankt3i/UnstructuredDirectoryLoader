@@ -14,7 +14,7 @@ pip install UnstructuredDirectoryLoader
 
 ### How to use
 
-1. Check that LangChain dependencies are working.
+1. Just pass you local directory path in UnstructuredDirectoryLoader() and then use this directory loader.
 
     ```
     directory_loader = UnstructuredDirectoryLoader(directory_path='<*Your_Local_Folder_Path*>')
