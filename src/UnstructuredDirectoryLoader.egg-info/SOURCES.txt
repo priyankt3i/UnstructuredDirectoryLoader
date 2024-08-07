@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/UnstructuredDirectoryLoader.egg-info/PKG-INFO
+src/UnstructuredDirectoryLoader.egg-info/SOURCES.txt
+src/UnstructuredDirectoryLoader.egg-info/dependency_links.txt
+src/UnstructuredDirectoryLoader.egg-info/entry_points.txt
+src/UnstructuredDirectoryLoader.egg-info/requires.txt
+src/UnstructuredDirectoryLoader.egg-info/top_level.txt
+src/UnstructuredDirectoryLoader_priyankt3i/UnstructuredDirectoryLoader.py
+src/UnstructuredDirectoryLoader_priyankt3i/__init__.py
