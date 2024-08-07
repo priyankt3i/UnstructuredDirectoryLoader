@@ -4,9 +4,7 @@
 
 ## How to install
 
-### Setup Python environment
-
-The Python version used when this was developed was 3.9
+The Python version used when this was developed was 3.9 :open_mouth:
 
 ```
 pip install UnstructuredDirectoryLoader
