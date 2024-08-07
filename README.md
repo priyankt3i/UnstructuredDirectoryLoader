@@ -11,3 +11,21 @@ The Python version used when this was developed was 3.9
 ```
 pip install UnstructuredDirectoryLoader
 ```
+
+### How to use
+
+1. Check that LangChain dependencies are working.
+
+    ```
+    directory_loader = UnstructuredDirectoryLoader(directory_path='<*Your_Local_Folder_Path*>')
+    ```
+
+    ```
+    listDocs = directory_loader.load()
+    ```
+
+3. Done! Go ahead and use a text splitter on this docs
+
+    ```
+    text_splitter = SemanticChunker(HuggingFaceEmbeddings())
+    ```
