@@ -8,6 +8,6 @@
 
 The Python version used when this was developed was 3.9
 
-'''
+```
 pip install UnstructuredDirectoryLoader
-'''
+```
