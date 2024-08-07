@@ -17,7 +17,7 @@ pip install UnstructuredDirectoryLoader
 1. Just pass you local directory path in UnstructuredDirectoryLoader() and then use this directory loader.
 
     ```
-    directory_loader = UnstructuredDirectoryLoader(directory_path='<*Your_Local_Folder_Path*>')
+    directory_loader = UnstructuredDirectoryLoader(directory_path='*<Your_Local_Folder_Path>*')
     ```
 
     ```
